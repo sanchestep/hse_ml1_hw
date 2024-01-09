@@ -10,4 +10,4 @@
 
 **Homework 6**: Gradient Boosting. _12.1 (+2.1 bonuses)_
 
-**Homework 7**: Bias-Varience Decomposition. _5.8/6_
+**Homework 7**: Bias-Variance Decomposition. _5.8/6_
